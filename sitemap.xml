@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://gleamly.uk/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://gleamly.uk/how-it-works.php</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gleamly.uk/services/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gleamly.uk/services/home-cleaning.php</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gleamly.uk/services/business-cleaning.php</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gleamly.uk/services/deep-cleaning.php</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gleamly.uk/services/end-of-tenancy.php</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gleamly.uk/pricing.php</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gleamly.uk/estimator.php</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gleamly.uk/quote.php</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gleamly.uk/reviews.php</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gleamly.uk/about.php</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gleamly.uk/faq.php</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gleamly.uk/contact.php</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gleamly.uk/become-a-cleaner.php</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://gleamly.uk/privacy.php</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://gleamly.uk/terms.php</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>

@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
+.vercel
+vendor/
+node_modules/
+_quote_extract/
+_quote.zip
+_quote_text.txt
+assets/uploads/*
+!assets/uploads/.gitkeep
+data/quotes.json
+!.gitkeep
