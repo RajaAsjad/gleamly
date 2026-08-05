@@ -28,7 +28,7 @@ $active = $active ?? '';
   <meta property="og:image" content="<?= e($og_image) ?>">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="icon" href="<?= e(asset('images/favicon.svg')) ?>" type="image/svg+xml">
+  <link rel="icon" href="<?= e(asset('images/favicon.png')) ?>" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -75,7 +75,7 @@ $active = $active ?? '';
 <header class="site-header" id="site-header">
   <div class="container header-inner">
     <a class="brand" href="<?= e(url()) ?>" aria-label="Gleamly home">
-      <span class="brand-mark" aria-hidden="true"></span>
+      <img class="brand-logo" src="<?= e(asset('images/logo.png')) ?>" alt="Gleamly" width="44" height="44">
       <span class="brand-text">Gleamly</span>
     </a>
 

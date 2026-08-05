@@ -7,7 +7,7 @@ declare(strict_types=1);
   <div class="container footer-grid">
     <div class="footer-brand">
       <a class="brand" href="<?= e(url()) ?>">
-        <span class="brand-mark" aria-hidden="true"></span>
+        <img class="brand-logo brand-logo-light" src="<?= e(asset('images/logo-light.png')) ?>" alt="Gleamly" width="44" height="44">
         <span class="brand-text">Gleamly</span>
       </a>
       <p>We clean deeply so you can rest easy. Professional cleaners across East and Southeast London.</p>
