@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/includes/config.php';
 
 $plan = $_GET['plan'] ?? '';
 $planMap = [
@@ -16,7 +16,7 @@ $selected = $planMap[$plan] ?? 'home';
 $page_title = 'Request a Quote';
 $page_description = 'Request a free, no-obligation cleaning quote from Gleamly. Upload photos of your space for a more accurate estimate.';
 $active = 'contact';
-require __DIR__ . '/../includes/header.php';
+require __DIR__ . '/includes/header.php';
 ?>
 
 <section class="page-hero">
@@ -134,4 +134,4 @@ document.getElementById('quote-form')?.addEventListener('submit', async (e) => {
 });
 </script>
 
-<?php require __DIR__ . '/../includes/footer.php'; ?>
+<?php require __DIR__ . '/includes/footer.php'; ?>

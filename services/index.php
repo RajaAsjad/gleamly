@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
-require_once __DIR__ . '/includes/config.php';
+require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Cleaning Services in East & Southeast London';
 $page_description = 'Home, business, deep and end-of-tenancy cleaning from Gleamly across East and Southeast London.';
 $active = 'services';
-require __DIR__ . '/includes/header.php';
+require __DIR__ . '/../includes/header.php';
 ?>
 
 <section class="page-hero">
@@ -64,4 +64,4 @@ require __DIR__ . '/includes/header.php';
   </div>
 </section>
 
-<?php require __DIR__ . '/includes/footer.php'; ?>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
